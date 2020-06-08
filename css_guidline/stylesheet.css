@@ -1,0 +1,23 @@
+/*
+ * Component section heading
+ */
+
+ .element { 
+     z-index: 1;
+  }
+
+
+ /*
+  * Component section heading
+  *
+  * Sometimes you need to include optional context for the entire component. Do that up here if it's important enough.
+  */
+ 
+ .element { 
+     z-index: 1;
+  }
+ 
+ /* Contextual sub-component or modifer */
+ .element-heading { 
+     z-index: 1;
+  }
